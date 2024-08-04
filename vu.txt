@@ -1,5 +1,5 @@
-SLIME CAPACITY 100
-B$ LEVEL 75
-Risk of Rain 50
-Hello 45
-Nosferatu 23
+TAURUS SLIME CAPACITY 99
+BULLSHIT LEVEL 75
+Storms 3
+Bonk 23
+Vampires 10
