@@ -1,0 +1,5 @@
+SLIME CAPACITY 100
+B$ LEVEL 75
+Risk of Rain 50
+Hello 45
+Nosferatu 23
