@@ -1,4 +1,4 @@
-Likvida medel 5
-Spenderhatt 100
-Angst 100
-Atefallsrisk 50
+Meemaw 5
+Sheldon 100
+Cooper 100
+Spock 50
