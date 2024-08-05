@@ -1,4 +1,4 @@
-Never 0
-Gonna 0
-Give 100
+Never 50
+Gonna 25
+Give 75
 You Up 100
