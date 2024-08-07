@@ -1,4 +1,4 @@
-Never 50
-Gonna 25
-Give 75
-You Up 100
+b$ level 20
+reorg-free days 25
+slime capacity 100
+smiles 50
