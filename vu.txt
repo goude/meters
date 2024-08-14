@@ -1,4 +1,1 @@
-b$ level 20
-reorg-free days 25
-dancing on rainbows 50
-pink fluffy unicorns 50
+withdrawal 90
