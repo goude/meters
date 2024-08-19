@@ -1,4 +1,4 @@
-BRISTOL 66
+Slajmkapacitet 100
 Cacti 75
-Irritability 75
+Coffee 25
 Monday 100
