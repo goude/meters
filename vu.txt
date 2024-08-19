@@ -1,1 +1,4 @@
-BRISTOL 50
+BRISTOL 66
+Cacti 75
+Irritability 75
+Monday 100
