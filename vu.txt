@@ -1,4 +1,4 @@
-Slajmkapacitet 100
-Cacti 75
-Coffee 25
-Monday 100
+skibidi 50
+skibidi 75
+skibidi 25
+toilet 100
